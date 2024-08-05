@@ -1,2 +1,5 @@
-# ofb_timer
-Simple timer, data type is customizable
+# Open Flowering Box
+## Timer
+Simple timer
+data type is customizable
+
